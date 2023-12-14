@@ -54,6 +54,6 @@
 
 ###
 
-<h6 align="left">Algoritma, sebagai rangkaian langkah-langkah sistematis dan logis, menjadi inti dari ilmu komputer dan informatika. <br><br>Meskipun sering dikaitkan dengan ilmu komputer, algoritma memiliki relevansi luas dalam kehidupan sehari-hari, mencakup berbagai proses yang dapat diungkapkan melalui langkah-langkah tertentu. Pemrograman, sebagai aspek penting dalam penerapan algoritma, melibatkan aktivitas menulis, menguji, memperbaiki, dan merawat kode untuk dipahami oleh komputer. <br>Dengan demikian, algoritma tidak hanya memainkan peran kunci dalam ilmu komputer, tetapi juga meresap ke dalam berbagai aspek kehidupan kita.</h6>
+<h6 align="left">Algoritma, sebagai rangkaian langkah-langkah sistematis dan logis, menjadi inti dari ilmu komputer dan informatika. <br>Meskipun sering dikaitkan dengan ilmu komputer, algoritma memiliki relevansi luas dalam kehidupan sehari-hari, mencakup berbagai proses yang dapat diungkapkan melalui langkah-langkah tertentu. Pemrograman, sebagai aspek penting dalam penerapan algoritma, melibatkan aktivitas menulis, menguji, memperbaiki, dan merawat kode untuk dipahami oleh komputer. <br>Dengan demikian, algoritma tidak hanya memainkan peran kunci dalam ilmu komputer, tetapi juga meresap ke dalam berbagai aspek kehidupan kita.</h6>
 
 ###
