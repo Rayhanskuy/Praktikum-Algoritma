@@ -54,6 +54,22 @@
 
 ###
 
-<h6 align="left">Algoritma, sebagai rangkaian langkah-langkah sistematis dan logis, menjadi inti dari ilmu komputer dan informatika. <br>Meskipun sering dikaitkan dengan ilmu komputer, algoritma memiliki relevansi luas dalam kehidupan sehari-hari, mencakup berbagai proses yang dapat diungkapkan melalui langkah-langkah tertentu. Pemrograman, sebagai aspek penting dalam penerapan algoritma, melibatkan aktivitas menulis, menguji, memperbaiki, dan merawat kode untuk dipahami oleh komputer. <br>Dengan demikian, algoritma tidak hanya memainkan peran kunci dalam ilmu komputer, tetapi juga meresap ke dalam berbagai aspek kehidupan kita.</h6>
+<h6 align="left">Algoritma, sebagai rangkaian langkah-langkah sistematis dan logis, menjadi inti dari ilmu komputer dan informatika. Meskipun sering dikaitkan dengan ilmu komputer, algoritma memiliki relevansi luas dalam kehidupan sehari-hari, mencakup berbagai proses yang dapat diungkapkan melalui langkah-langkah tertentu. <br>Pemrograman, sebagai aspek penting dalam penerapan algoritma, melibatkan aktivitas menulis, menguji, memperbaiki, dan merawat kode untuk dipahami oleh komputer. <br>Dengan demikian, algoritma tidak hanya memainkan peran kunci dalam ilmu komputer, tetapi juga meresap ke dalam berbagai aspek kehidupan kita.</h6>
+
+###
+
+<h2 align="right">Jobsheet 2 - Pemrograman Dasar C</h2>
+
+###
+
+<h6 align="left">Dalam modul ini kita mempelajari struktur dasar penulisan bahasa pemograman C, serta mengimplementasikan Basic Syntax C, Proses Input & Output dalam pemrograman menggunakan IDE<br><br>Struktur program C dibagi menjadi dua bagian utama yaitu Bagian Include dan Blok Fungsi Main. <br><br>Header Files:<br>Pada bagian pertama kode program dalam bahasa C, penggunaan perintah #include sangat penting. Perintah ini memungkinkan pengguna untuk menyertakan file header khusus yang mengandung definisi fungsi dan fitur tambahan dalam bahasa C. Dengan cara ini, programmer dapat mengakses berbagai fungsi yang sudah didefinisikan sebelumnya, memperluas fungsionalitas program, dan mengoptimalkan penggunaan kode.<br><br>Main Function:<br>Fungsi main() merupakan elemen esensial dalam setiap program bahasa C. Struktur main() ini adalah inti dari program, di mana segala logika program ditulis di dalamnya. Dengan dimulai dan diakhiri oleh tanda kurung kurawal, { dan }, fungsi main() akan dieksekusi pertama kali saat program dijalankan. Oleh karena itu, segala pernyataan dan operasi yang ingin dijalankan harus ditempatkan di dalam fungsi main().<br><br>Statement, Semicolons, Identifier, dan Comments:<br>Statement dalam bahasa C merujuk pada perintah atau fungsi yang melibatkan operasi tertentu. Semicolon memiliki peran penting sebagai penanda akhir dari setiap pernyataan atau statement dalam program C. Identifier, sebagai nama yang mengidentifikasi variabel atau fungsi, memiliki aturan penulisan yang harus diikuti untuk memastikan validitas dan keterbacaan kode. Komentar, baik satu baris (menggunakan //) maupun multi-baris (dengan /* dan */), digunakan untuk mendokumentasikan atau memberikan deskripsi pada bagian-bagian program, memudahkan pemahaman dan pemeliharaan kode program tersebut.</h6>
+
+###
+
+<h2 align="left">Jobsheet 3 - Variabel, Konstanta & Tipe Data</h2>
+
+###
+
+<h6 align="left">Variabel, Konstanta & Tipe Data</h6>
 
 ###
