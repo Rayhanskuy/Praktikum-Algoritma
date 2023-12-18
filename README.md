@@ -26,11 +26,11 @@
 
 ###
 
-<h6 align="left">I am Mahendrata Rayhan Syahputra, originally from Batam, Indonesia. I am currently study at Padang State University . Beyond academics, I have a passion for Music and Arts.<br><br>Thank you for considering my profile.</h6>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h6 align="left">I am Mahendrata Rayhan Syahputra, originally from Batam, Indonesia. I am currently study at Padang State University . Beyond academics, I have a passion for Music and Arts.<br><br>Thank you for considering my profile.</h6>
 
 ###
 
@@ -40,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRjNmpmNHlvNjUwYTN0dHdnN2VvdGt5NXgzdHZ1MmF0eWFnNG95ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRGoqbUQvk8nwTC/giphy.gif"  />
 </div>
 
 ###
@@ -87,5 +93,29 @@
 ###
 
 <h6 align="left">Di modul ini saya mempelajari tentang Flow Control yaitu pengambilan keputusan dalam pemrograman menggunakan IDE <br><br>Pengambilan keputusan dalam pemrograman memegang peranan vital dalam mengelola alur eksekusi suatu program. Dalam bahasa pemrograman C, terdapat sejumlah pernyataan aliran kontrol, atau flow control, yang memungkinkan pemrogram untuk mengubah jalur eksekusi program. Dikenal juga sebagai percabangan, istilah ini merujuk pada struktur kondisi atau pernyataan if yang memungkinkan pengembang untuk mengarahkan eksekusi kode berdasarkan kondisi tertentu.<br><br>Salah satu pernyataan percabangan yang paling dasar adalah "pernyataan if." Ini menyediakan blok kode yang akan dieksekusi jika suatu kondisi bernilai benar. Kemudian, terdapat "pernyataan if-else" yang memperluas konsep ini dengan menyediakan dua blok pilihan. Blok pertama dieksekusi jika kondisi benar, sedangkan blok kedua dijalankan jika kondisi salah (else).<br><br>Pernyataan "if-else if" menjadi relevan ketika ada lebih dari dua kemungkinan jalur eksekusi. Pernyataan ini mengizinkan pengembang untuk menentukan beberapa blok pilihan berdasarkan kondisi yang berbeda. Selain itu, terdapat "pernyataan switch case" sebagai bentuk lain dari percabangan if/else/if. Ini memberikan cara yang ringkas untuk menangani berbagai kondisi, terutama saat kondisi melibatkan nilai-nilai diskrit.<br><br>Dalam rangkaian pernyataan percabangan ini, pengembang dapat dengan fleksibel memanipulasi alur program sesuai dengan kebutuhan spesifik suatu aplikasi. Keempat jenis percabangan ini memberikan alat yang efektif bagi para pemrogram untuk mengimplementasikan logika pengambilan keputusan dalam kode mereka.</h6>
+
+###
+
+<h2 align="right">Jobsheet 6 - Flow Control: Loop (Perulangan)</h2>
+
+###
+
+<h6 align="left">Di modul ini saya mempelajari apa itu looping dalam programming, yang biasa disebut putaran atau perulangan.<br><br>Loop, atau perulangan, merupakan konstruksi aliran kontrol dalam pemrograman yang memungkinkan sejumlah kode untuk dieksekusi secara berulang hingga kondisi tertentu terpenuhi. Dalam bahasa pemrograman C, terdapat beberapa jenis perulangan yang dapat digunakan.<br><br>Salah satu jenis perulangan pada C adalah perulangan for. Perulangan ini termasuk dalam kategori counted loop, karena jumlah iterasinya sudah diketahui secara pasti. Dengan perulangan for, kita dapat menjalankan seblok kode sejumlah kali sesuai dengan parameter yang telah ditentukan.<br><br>Selain perulangan for, C juga menyediakan perulangan while. Jenis perulangan ini termasuk dalam kategori uncounted loop, karena jumlah iterasinya tidak diketahui sebelumnya. Perulangan while dapat juga dijadikan counted loop dengan penambahan variabel counter di dalamnya.<br><br>Perulangan do while adalah jenis perulangan yang mirip dengan perulangan while. Perbedaannya terletak pada langkah eksekusinya. Perulangan do while akan melakukan satu iterasi terlebih dahulu sebelum mengecek kondisi di dalam blok while.<br><br>Selain itu, dalam pemrograman C, kita dapat menggunakan perulangan bersarang atau nested loop. Ini berarti kita dapat menempatkan satu perulangan di dalam perulangan lainnya. Dengan nested loop, kita dapat membuat struktur pengulangan yang lebih kompleks dan dapat menangani situasi yang lebih spesifik.</h6>
+
+###
+
+<h2 align="left">Jobsheet 7 - Array</h2>
+
+###
+
+<h6 align="left">Di modul ini saya mempelajari Data Structure: Array dalam pemrograman menggunakan IDE, yang biasanya digunakan untuk menyimpan banyak data.<br><br>Array, adalah struktur data yang digunakan dalam pemrograman untuk menyimpan sekelompok data secara terorganisir dalam satu tempat. Dalam array, setiap elemen data memiliki indeks unik yang memungkinkan kita dengan mudah mengakses atau mengganti nilainya. <br><br>Kelebihan utama dari penggunaan array adalah memungkinkan pengelolaan data yang lebih efisien, karena elemen-elemen tersebut dapat diakses menggunakan indeks numerik yang menyederhanakan proses pemrosesan dan manipulasi data</h6>
+
+###
+
+<h2 align="right">Jobsheet - 8 Fungsi & Prosedur</h2>
+
+###
+
+<h6 align="left">Di modul ini saya mempelajari Function and Procedure dalam pemrograman IDE.<br><br>Fungsi dalam pemrograman adalah sub-program yang dapat digunakan kembali, baik dalam program itu sendiri maupun dalam program yang berbeda. Fungsi umumnya mengembalikan nilai dari hasil prosesnya, dan untuk itu, kita perlu menentukan tipe data untuk nilai yang akan dikembalikan. Jika suatu fungsi tidak memiliki nilai kembalian, maka kita menggunakan tipe void untuk menyatakan bahwa fungsi tersebut tidak akan mengembalikan nilai apa pun.<br><br>Salah satu bentuk khusus fungsi adalah fungsi rekursif pada bahasa pemrograman C. Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri. Tradisionalnya, pemanggilan fungsi terjadi dari fungsi main atau fungsi lainnya, namun dalam fungsi rekursif, fungsi tersebut secara langsung memanggil dirinya sendiri di dalam tubuh fungsinya. Konsep ini memungkinkan implementasi algoritma yang lebih elegan dan intuitif dalam beberapa kasus.<br><br>Dalam konteks parameter fungsi, terdapat dua konsep penting, yaitu pass by value dan pass by reference. Pass by value berarti hanya nilai dari suatu variabel yang dikirimkan ke dalam fungsi, sementara pass by reference memungkinkan pengiriman referensi atau alamat memori variabel tersebut. Pemahaman tentang kedua konsep ini penting dalam memahami bagaimana nilai atau referensi variabel dapat dimanipulasi dalam lingkup fungsi dan dapat memengaruhi nilai asli variabel di luar fungsi tersebut.</h6>
 
 ###
